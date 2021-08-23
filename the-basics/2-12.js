@@ -1,0 +1,1 @@
+//True: JS evaluates strings containing numbers from left to right

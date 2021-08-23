@@ -1,0 +1,3 @@
+/* When a string representing a number is added to a Number
+the number is converted to a string and concatenated 
+as if both were strings instead of added numerically*/
