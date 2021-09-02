@@ -1,0 +1,1 @@
+//The code does not throw an error and logs 1 2 3 4 5 as expected.
