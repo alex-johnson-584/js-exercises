@@ -1,0 +1,1 @@
+// The function takes  string as input and first creates an array of words, then reverses the order, then outputs the word legnths as a new array

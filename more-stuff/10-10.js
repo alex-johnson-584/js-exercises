@@ -1,0 +1,1 @@
+//It returns 5 because the ++ operator coerces the input into a number and incremenets it. It does not return 6 because the return vaue is the previous value, not the new one.
